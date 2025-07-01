@@ -16,3 +16,5 @@
   혹시나 다른 사람이 다른 작업을 했으면 최신 업데이트를 확인한다.  
 #### 6. Pull Request(PR)  
   이제 최종적으로 원본 저장소에 내 작업물을 반영해달라고 요청을 보내는 것  
+
+![image](https://github.com/user-attachments/assets/4fdd75f7-2718-486d-8fce-9e6c02988211)
