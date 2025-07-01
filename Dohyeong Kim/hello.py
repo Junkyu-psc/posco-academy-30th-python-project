@@ -1,1 +1,1 @@
-print("commit 메세지가 어떻게 돌아가는지 잘 모르겠네요")
+print("commmit 했어요")
