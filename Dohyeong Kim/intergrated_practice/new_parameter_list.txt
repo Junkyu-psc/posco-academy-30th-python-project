@@ -1,0 +1,11 @@
+1. Power/Engine(연료 대비 파워)
+2. Kilometers_Driven/car age(연 평균 주행거리)
+3. Kilometers_Driven/Owner_Type(인당 주행거리)
+4. year/Owner_Type(인당 소유 기간)
+5. Power/Engine(연료 대비 파워) 범주화
+6. 도시 범주화(1,2,3선 기준 & 판매 빈도수 기준) => 자료조사
+7. 단순 연식(car age)
+8. 연간 가치 하락률 = (신차가격 - 가격) / 연도
+9. new price만 할 수 있는 변수 => Depreciation_Rate = (New_Price - Price) / New_Price
+10. 차 브랜드 범주화(고급, 중견, 똥차 기준으로 범주화) => 자료조사, 접근성이 높은 곳의 점유율 순위로 보기
+11. Power_per_Seat = Power / Seats
